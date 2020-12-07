@@ -1,0 +1,32 @@
+{
+  "car_type": [
+    "JEEP",
+    "SEDAN"
+  ],
+  "district": [
+    "ZEYTUN",
+    "KOMITAS",
+    "NOR-NORK",
+    "EREBUNI"
+  ],
+  "choice_zeytun": [
+    "Our adress is Zeytun Rubinynac 14 working from 9:00 - 19:00",
+    "5000  amd  / if you want to reserve you can call +374-98-29-88-27.Use the code to get a free drink while waiting",
+    "2500  amd  / if you want to reserve you can call +374-98-29-88-27.Use the code to get a free drink while waiting"
+  ],
+  "choice_komtas": [
+    "Our adress is Komitas Griboedov 20 working 24 hours",
+    "6000  amd  / if you want to reserve you can call +374-98-29-88-27.Use the code to get a free drink while waiting",
+    "3500  amd  / if you want to reserve you can call +374-98-29-88-27.Use the code to get a free drink while waiting"
+  ],
+  "choice_nornork": [
+    "Our adress is Nor-Nork Mikoyan 13 working from 9:00 - 23:00",
+    "4000  amd  / if you want to reserve you can call +374-98-29-88-27.Use the code to get a free drink while waiting",
+    "2000  amd  / if you want to reserve you can call +374-98-29-88-27.Use the code to get a free drink while waiting"
+  ],
+  "choice_erebuni": [
+    "Our adress is Erebuni Avanesov 14 working from 9:00 - 22:00",
+    "2500  amd  / if you want to reserve you can call +374-98-29-88-27.Use the code to get a free drink while waiting",
+    "1500  amd  / if you want to reserve you can call +374-98-29-88-27. Use the code to get a free drink while waiting"
+  ]
+}
